@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* background-color: #030712; */
+  background-image: linear-gradient(
+    110deg,
+    hsl(0deg 100% 50%) 0%,
+    hsl(26deg 100% 50%) 4%,
+    hsl(37deg 100% 50%) 9%,
+    hsl(45deg 100% 50%) 14%,
+    hsl(52deg 100% 50%) 18%,
+    hsl(58deg 100% 47%) 23%,
+    hsl(66deg 100% 46%) 29%,
+    hsl(76deg 100% 46%) 34%,
+    hsl(89deg 100% 45%) 41%,
+    hsl(117deg 100% 45%) 48%,
+    hsl(154deg 88% 43%) 56%,
+    hsl(179deg 86% 37%) 63%,
+    hsl(202deg 87% 44%) 70%,
+    hsl(222deg 89% 50%) 76%,
+    hsl(251deg 93% 54%) 81%,
+    hsl(267deg 81% 50%) 86%,
+    hsl(280deg 82% 46%) 91%,
+    hsl(294deg 86% 41%) 96%,
+    hsl(308deg 99% 40%) 100%
+  );
+}
+
